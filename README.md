@@ -1,4 +1,4 @@
-# 👩🏻‍💻 lucas Snaanos
+# 👩🏻‍💻 lucas Santos
 
 **Estudante de Ds**
 
