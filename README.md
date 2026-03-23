@@ -3,7 +3,9 @@
 **Estudante de Ds**
 
 oi, me chamo lucas e curso Desenvolvimento de sistemas 2/3 na ETEC de Registro
- 🤖 Linguagens e Tecnologias
+ 
+ 
+🤖 Linguagens aprendidas
 
 <img 
     align="left" 
